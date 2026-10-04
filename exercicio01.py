@@ -6,3 +6,4 @@ elif c2 <= 1200:
     print("Atenção")
 else:
     print("Ventilar a sala")
+    
