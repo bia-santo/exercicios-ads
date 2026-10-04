@@ -6,4 +6,3 @@ elif qtdDias >= 3 and 5 >= qtdDias:
     print("Cobrar taxa de 5,00")
 else:
     print("Retirada bloqueada")
-  
